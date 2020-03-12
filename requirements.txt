@@ -32,7 +32,7 @@ packaging==19.0
 pandas==0.24.2
 pkginfo==1.5.0.1
 plotly==3.10.0
-psutil==5.6.1
+psutil==5.6.6
 psycopg2==2.8.3
 ptyprocess==0.6.0
 PySocks==1.6.8
